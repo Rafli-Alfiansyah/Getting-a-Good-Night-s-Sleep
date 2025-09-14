@@ -4,7 +4,7 @@
 
 ## Discovering Insights into Sleep Quality
 
-SleepInc, has shared anonymized data from their popular sleep tracking app, SleepScope. As their data science consultant, my mission is to analyze this lifestyle survey data to discover relationships between factors like exercise, gender, occupation, and sleep quality. This analysis aims to identify patterns that provide insights into what affects sleep health.
+SleepInc, has shared anonymized data from their popular sleep tracking app, SleepScope. My mission is to analyze this lifestyle survey data to discover relationships between factors like exercise, gender, occupation, and sleep quality. This analysis aims to identify patterns that provide insights into what affects sleep health.
 
 ## 💾 The Dataset: `sleep_health_data.csv`
 
